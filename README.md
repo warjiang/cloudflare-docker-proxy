@@ -37,4 +37,4 @@
      "ghcr.libcuda.so": "https://ghcr.io",
    };
    ```
-
+test deploy
